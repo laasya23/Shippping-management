@@ -1,0 +1,9 @@
+-> lamp 
+
+GCP Conpute ENGINE
+create a linux vm 
+install apache server using ssh
+upload code on github
+clone repo from github to vm using ssh git
+
+how to deoloy php file in apache linux/ubuntu
